@@ -1,6 +1,6 @@
 {
   "name": "visualsearch",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "homepage": "http://documentcloud.github.io/visualsearch/",
   "authors": [
     "Samuel Clay",
@@ -12,8 +12,7 @@
   "dependencies": {
     "jQuery": ">=1.4",
     "jquery-ui": ">=1.8",
-    "backbone": ">=0.9.10",
-    "lodash":">=2.4.1"
+    "backbone": "https://github.com/paivaric/backbone.git#>=0.9.10"
   },
   "ignore": [
     "**/.*",
