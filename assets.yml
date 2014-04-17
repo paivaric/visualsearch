@@ -11,7 +11,7 @@ javascripts:
     - vendor/jquery.ui.widget.js
     - vendor/jquery.ui.position.js
     - vendor/jquery.ui.*.js
-    - vendor/underscore-*.js
+    - vendor/lodash-*.js
     - vendor/backbone-*.js
   visualsearch:
     - lib/js/visualsearch.js
