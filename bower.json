@@ -7,13 +7,13 @@
     "@samuelclay"
   ],
   "description": "A Rich Search Box for Real Data",
-  "main": ["build-min/visualsearch-datauri.css", "build-min/visualsearch.css", "build-min/visualsearch.js"],
+  "main": ["build-min/visualsearch.css", "build-min/visualsearch.js", "build-min/visualsearch-datauri.css"],
   "license": "MIT",
   "dependencies": {
     "jQuery": ">=1.4",
     "jquery-ui": ">=1.8",
     "backbone": ">=0.9.10",
-    "underscore":">=1.4.3"
+    "lodash":">=2.4.1"
   },
   "ignore": [
     "**/.*",
